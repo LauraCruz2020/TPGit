@@ -1,1 +1,2 @@
 console.log(floresPatagonicas);
+"Las mutisias son una especie de margarita colgante...son trepadoras y muy coloridas..pueden ser de un naranja muy fuerte casi fluo, tambien hay blancas con el centro y con vetas violetas en sus pétalos"

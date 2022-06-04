@@ -1,1 +1,2 @@
 console.log(floresPatagonicas);
+"La fucsia, tambien conocida como chilco o aljaba, es un hermoso arbusto con flores color fucsia y con centro violeta y en forma de campanita colgante..a los colibries les encanta :)"
